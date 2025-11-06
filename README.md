@@ -1,4 +1,4 @@
-[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-ee4e8b?style=for-the-badge)](https://github.com/sponsors/f-buisson)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
 # 🌍 BioSym  
 **Symbiotic Modular System for Water, Energy, and Regeneration**
@@ -224,7 +224,6 @@ Si tu reprends ce concept, précise l’origine : **“Concept BioSym inspiré p
 
 ### 🫶 Soutenir ce projet
 
-**FR :**  
 Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
 Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
 👉 https://github.com/sponsors/f-buisson  
