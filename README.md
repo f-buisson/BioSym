@@ -1,3 +1,5 @@
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-ee4e8b?style=for-the-badge)](https://github.com/sponsors/f-buisson)
+
 # 🌍 BioSym  
 **Symbiotic Modular System for Water, Energy, and Regeneration**
 
@@ -90,6 +92,20 @@ We document first, prototype later.
 2. 🧪 **“Small Prototypes” Phase** – 1 water module + 1 energy module + 1 logic layer  
 3. 🔁 **“Chaining” Phase** – make several modules work together  
 4. 🌱 **“Field” Phase** – small autonomous demonstrato
+
+---
+
+### 🫶 Support this project
+
+I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
+If you'd like to help the development continue and support new prototypes:  
+👉 https://github.com/sponsors/f-buisson  
+Even a symbolic contribution helps to:
+- fund necessary materials
+- develop and test prototypes
+- cover software licensing fees (SolidWorks, etc.)
+
+Thank you for your support ✦
 
 ---
 
@@ -203,3 +219,18 @@ On documente d’abord, on prototype après.
 
 Si tu reprends ce concept, précise l’origine : **“Concept BioSym inspiré par projet open-source (f-buisson)”**  
 Ça permettra aux prochains de remonter à la source.
+
+---
+
+### 🫶 Soutenir ce projet
+
+**FR :**  
+Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
+Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
+👉 https://github.com/sponsors/f-buisson  
+Chaque contribution (même symbolique) permet de :
+- financer les matériaux nécessaires
+- développer et tester les prototypes
+- couvrir les licences logicielles (SolidWorks, etc.)
+
+Merci pour ton soutien ✦
